@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkSender", "FrameworkSender\FrameworkSender.csproj", "{8E5390C4-754A-4A3F-804F-CC7B4562278D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkReceiver", "FrameworkReceiver\FrameworkReceiver.csproj", "{1911F806-BC67-419C-969B-AFBBE5D4C950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E5390C4-754A-4A3F-804F-CC7B4562278D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5390C4-754A-4A3F-804F-CC7B4562278D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5390C4-754A-4A3F-804F-CC7B4562278D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5390C4-754A-4A3F-804F-CC7B4562278D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1911F806-BC67-419C-969B-AFBBE5D4C950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1911F806-BC67-419C-969B-AFBBE5D4C950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1911F806-BC67-419C-969B-AFBBE5D4C950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1911F806-BC67-419C-969B-AFBBE5D4C950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38343C66-F4B7-420D-8536-BAFD838F816C}
+	EndGlobalSection
+EndGlobal
